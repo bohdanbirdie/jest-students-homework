@@ -1,0 +1,18 @@
+{
+  "name": "jest-students-homework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bohdanbirdie/jest-students-homework.git",
+  "author": "bohdanbirdie <voja4ok@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0"
+  },
+  "dependencies": {
+    "lodash.isequal": "^4.5.0"
+  }
+}
